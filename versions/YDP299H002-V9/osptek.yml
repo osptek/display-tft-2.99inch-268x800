@@ -1,0 +1,10 @@
+id: YDP299H002-V9
+category: displays
+size: "2.99"
+panel: tft
+resolution: 268x800
+interface: [rgb]
+driver: ST7701S
+touch: null
+outline: 26.96 x 80.08 x 1.6 mm
+active_area: 24.12 x 72 mm
